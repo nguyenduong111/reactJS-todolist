@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nguyenduong111/reactJS-todolist.git/static/css/main.ebdc336c.chunk.css",
+    "main.js": "/nguyenduong111/reactJS-todolist.git/static/js/main.97377d79.chunk.js",
+    "main.js.map": "/nguyenduong111/reactJS-todolist.git/static/js/main.97377d79.chunk.js.map",
+    "runtime-main.js": "/nguyenduong111/reactJS-todolist.git/static/js/runtime-main.a75f4af7.js",
+    "runtime-main.js.map": "/nguyenduong111/reactJS-todolist.git/static/js/runtime-main.a75f4af7.js.map",
+    "static/js/2.4867f814.chunk.js": "/nguyenduong111/reactJS-todolist.git/static/js/2.4867f814.chunk.js",
+    "static/js/2.4867f814.chunk.js.map": "/nguyenduong111/reactJS-todolist.git/static/js/2.4867f814.chunk.js.map",
+    "static/js/3.64bd7caf.chunk.js": "/nguyenduong111/reactJS-todolist.git/static/js/3.64bd7caf.chunk.js",
+    "static/js/3.64bd7caf.chunk.js.map": "/nguyenduong111/reactJS-todolist.git/static/js/3.64bd7caf.chunk.js.map",
+    "index.html": "/nguyenduong111/reactJS-todolist.git/index.html",
+    "static/css/main.ebdc336c.chunk.css.map": "/nguyenduong111/reactJS-todolist.git/static/css/main.ebdc336c.chunk.css.map",
+    "static/js/2.4867f814.chunk.js.LICENSE.txt": "/nguyenduong111/reactJS-todolist.git/static/js/2.4867f814.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a75f4af7.js",
+    "static/js/2.4867f814.chunk.js",
+    "static/css/main.ebdc336c.chunk.css",
+    "static/js/main.97377d79.chunk.js"
+  ]
+}
