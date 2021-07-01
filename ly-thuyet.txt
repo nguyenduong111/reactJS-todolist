@@ -1,0 +1,15 @@
+
+Lưu trữ dữ liệu
+---------------LocalStorage và SessionStorage--------------
+
++ lưu dữ liệu tạm thời ở trình duyệt (tab Application)
++ Tương tự cookie
++ Kích thước ~5MB
++ Chỉ mất khi xóa lịch sử hoặc dùng lệnh
++ SessionStorage mát khi đóng trình duyêt
++ các phương thức chính:
+    _setItem("key", value);
+    _getItem("key");
+    _removeItem("key"); 
+
+*lưu ý, nên lưu thành string (dùng JSON)
